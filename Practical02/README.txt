@@ -2,11 +2,11 @@ The folder contains the tasks for the week named, "Conversion" and "Sum".
 These will be executed by using the command
 
 
-gcc -o Practical02 Conversion.c -lm
-./Practical02
+gcc -o Conversion Conversion.c -lm
+./Conversion
 
-gcc -o Practical02 Sum.c
-./Practical02
+gcc -o Sum Sum.c
+./Sum
 
 
-here Practical02 is the executible file.
+here Conversion and Sum are the executible files.
