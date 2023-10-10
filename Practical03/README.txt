@@ -1,7 +1,7 @@
 The mentioned files in Practical file are for printing a function using printf function.
 
 To execute the executible:
-gcc -o Printfile Printfile.c
+gcc -o Printfile Printfile.c -lm
 ./Printfile
 
 The output will be:
